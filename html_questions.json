@@ -1,0 +1,82 @@
+[
+    {
+      "title": "When was the Egyptian Al-Ahly Club established ?",
+      "answer_1": "1911",
+      "answer_2": "1891",
+      "answer_3": "1907",
+      "answer_4": "1965",
+      "right_answer": "1907"
+    },
+    {
+      "title": "What Is The Capital Of Egypt ?",
+      "answer_1": "Banha",
+      "answer_2": "Cairo",
+      "answer_3": "Al-reyad",
+      "answer_4": "Abu-zabi",
+      "right_answer": "Cairo"
+    },
+    {
+      "title": "Who scored the Goal of Alqadiah Momken 😜 ?",
+      "answer_1": "Amr Elsolia",
+      "answer_2": "Marawan Mohsen",
+      "answer_3": "Ali Maalol",
+      "answer_4": "MO.Afsha",
+      "right_answer": "MO.Afsha"
+    },
+    {
+      "title": "which day was the Prophet of God Muhammad was born ?",
+      "answer_1": "Saturday",
+      "answer_2": "Sunday",
+      "answer_3": "Monday",
+      "answer_4": "Friday",
+      "right_answer": "Monday"
+    },
+    {
+      "title": "What is the club that is the most crowned in the world ?",
+      "answer_1": "Real Madrid",
+      "answer_2": "Al-Ahly FC",
+      "answer_3": "Liverpool",
+      "answer_4": "AC-milan",
+      "right_answer": "Al-Ahly FC"
+    },
+    {
+      "title": "What is the output of multiplying 19 * 7 ?",
+      "answer_1": "122",
+      "answer_2": "143",
+      "answer_3": "211" ,
+      "answer_4": "133",
+      "right_answer": "133"
+    },
+    {
+      "title": "What is The abbreviation of DOM in js ?",
+      "answer_1": "Doctype Open Model",
+      "answer_2": "Document Object Model",
+      "answer_3": "Download Object Manipulation",
+      "answer_4": "One and Two",
+      "right_answer": "Document Object Model"
+    },
+    {
+      "title": "When did the Corona virus first appear ?",
+      "answer_1": "2009",
+      "answer_2": "2019",
+      "answer_3": "2020",
+      "answer_4": "2018",
+      "right_answer": "2019"
+    },
+    {
+      "title": "What is the output of dividing 221 / 13 ?",
+      "answer_1": 21,
+      "answer_2": 9,
+      "answer_3": "17",
+      "answer_4": 12,
+      "right_answer": "17"
+    },
+    {
+      "title": "What is the output of 973 - 271x3 ?",
+      "answer_1": "124",
+      "answer_2": "122",
+      "answer_3": "211" ,
+      "answer_4": "133",
+      "right_answer": "124"
+    }
+  ]
